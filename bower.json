@@ -1,0 +1,26 @@
+{
+  "name": "conFusion",
+  "authors": [
+    "Rahul Chawla"
+  ],
+  "description": "Website for an awesome restaurant",
+  "main": "conFusion.html",
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "homepage": "conFusion.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
